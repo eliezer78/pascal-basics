@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1549053250"/>
+  <Params Value="-MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq -FiC:\Users\eliezer\Desktop\Code\pascal\lib\x86_64-win64 -FuC:\Users\eliezer\Desktop\Code\pascal\ -FUC:\Users\eliezer\Desktop\Code\pascal\lib\x86_64-win64\ -FEC:\Users\eliezer\Desktop\Code\pascal\ -oC:\Users\eliezer\Desktop\Code\pascal\datospersonales1.exe datospersonales1.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
